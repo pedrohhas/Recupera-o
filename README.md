@@ -39,6 +39,7 @@ CREATE TABLE produtos (
     quantidade INT NOT NULL,
     descricao TEXT
 );
+```
 🖥 Como Rodar o Projeto
 Instale e abra o XAMPP.
 
