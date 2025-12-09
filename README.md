@@ -98,9 +98,7 @@ Atualiza registros
 
 Exibe abas e formulários
 
-📸 Screenshots (Opcional)
-
-Você pode adicionar imagens da sua interface aqui:
+📸 Screenshots 
 
 ![Tela Cadastrar](./cadastrar.png)
 ![Tela Alterar](./alterar.png)
