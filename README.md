@@ -61,3 +61,50 @@ Acesse no navegador:
 arduino
 Copiar código
 http://localhost/loja
+📌 Como Usar
+
+A interface possui abas:
+
+🔹 Cadastrar
+
+Preencha o formulário com nome, categoria, preço, quantidade e descrição.
+
+🔹 Alterar
+
+Selecione um produto no menu e os dados serão carregados automaticamente.
+
+🔹 Excluir
+
+Mostra os dados do item selecionado e permite remover.
+
+🔹 Consultar
+
+Exibe os detalhes sem permitir alterações.
+
+🔹 Listar
+
+Mostra uma tabela com todos os produtos cadastrados.
+
+📦 Arquivo Principal
+
+Todo o sistema funciona em um único arquivo PHP que:
+
+Conecta ao banco com PDO
+
+Gerencia ações via POST
+
+Atualiza registros
+
+Exibe abas e formulários
+
+📸 Screenshots (Opcional)
+
+Você pode adicionar imagens da sua interface aqui:
+
+![Tela Cadastro](img/cadastro.png)
+![Tela Alterar](img/alterar.png)
+![Tela Consultar](img/consultar.png)
+
+🧑‍💻 Autor
+
+Projeto desenvolvido por Pedro.
