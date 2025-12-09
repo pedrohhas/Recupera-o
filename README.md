@@ -94,7 +94,7 @@ Exibe abas e formulários
 
 📌 Modelo Lógico DER
 
-![Tela DER](./DER.png)
+![Tela DER](./DERMODELO.png)
 
 📸 Screenshots 
 
