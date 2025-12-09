@@ -96,7 +96,7 @@ Exibe abas e formulários
 
 ![Tela DER](./DERMODELO.png)
 
-📸 Screenshots 
+📸 Imagem Do Site
 
 ![Tela Cadastrar](./cadastrar.png)
 ![Tela Alterar](./alterar.png)
