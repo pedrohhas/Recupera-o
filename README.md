@@ -25,8 +25,11 @@ O sistema utiliza **PDO com MySQL**, interface simples em abas (Tabs) e funciona
 - **XAMPP** (recomendado)
 
 ---
+📂 Arquivo Com o Código PHP
 
-## 📂 Estrutura da Tabela no Banco de Dados
+[📄 Clique aqui para ver o código PHP](index.php)
+
+📂 Estrutura da Tabela no Banco de Dados
 
 Crie o banco chamado **loja_recuperacao** e execute:
 
